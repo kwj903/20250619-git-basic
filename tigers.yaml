@@ -1,6 +1,10 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: Uia
+=======
+manager: Mina
+>>>>>>> conflict-1
 
 members:
 - Linda
